@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PalindromeTester",
+      "request": "launch",
+      "mainClass": "u4pp.PalindromeTester",
+      "projectName": "u4pp"
+    },
+    {
+      "type": "java",
       "name": "Run Main",
       "request": "launch",
       "mainClass": "u4pp.Main",
